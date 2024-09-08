@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thedinaiym.github.io/thedinaiym/sitemap.xml
+Sitemap: https://thedinaiym.github.io/sitemap.xml
