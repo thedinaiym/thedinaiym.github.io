@@ -92,13 +92,14 @@
     - year: 2023
       items:
         - "1st place — FinOlimp Pro KG BakerTilly (Data Science)"
-        - "Bronze Medal / Hon. Mention — ICPC Kyrgyzstan Final"
-        - "Bronze Medal / Hon. Mention — ICPC NERC Astana"
+        - "Bronze Medal — ICPC Kyrgyzstan Final"
+        - "Honourable Mention — ICPC NERC Astana"
         - "3rd place — National Math Olympiad"
         - "3rd place — IYMC"
     - year: 2022
       items:
-        - "Bronze Medal / Hon. Mention — ICPC NERC Almaty"
+        - "Gold Medal — ICPC Kyrgyzstan"
+        - "Honourable Mention — ICPC NERC Almaty"
 
 - title: Technical Skills
   type: nested_list

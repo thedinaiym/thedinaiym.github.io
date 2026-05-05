@@ -106,7 +106,12 @@
       "awarder": "BakerTilly Kyrgyzstan"
     },
     {
-      "title": "Bronze Medal — ICPC NERC Astana",
+      "title": "Bronze Medal — ICPC Kyrgyzstan Final",
+      "date": "2023-01-01",
+      "awarder": "ICPC"
+    },
+    {
+      "title": "Honourable Mention — ICPC NERC Astana",
       "date": "2023-01-01",
       "awarder": "ICPC"
     },
@@ -114,6 +119,16 @@
       "title": "3rd Place — National Mathematics Olympiad & IYMC",
       "date": "2022-01-01",
       "awarder": "Kyrgyz Republic / IYMC"
+    },
+    {
+      "title": "Gold Medal — ICPC Kyrgyzstan",
+      "date": "2022-01-01",
+      "awarder": "ICPC"
+    },
+    {
+      "title": "Honourable Mention — ICPC NERC Almaty",
+      "date": "2022-01-01",
+      "awarder": "ICPC"
     }
   ],
   "certificates": [
