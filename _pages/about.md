@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  AI Engineer & Researcher ·
+  <a href="https://alatoo.edu.kg">International Ala-Too University</a>, Kyrgyzstan ·
+  <a href="mailto:dinaiym.dubanaeva@alatoo.edu.kg">dinaiym.dubanaeva@alatoo.edu.kg</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📍 Bishkek, Kyrgyzstan</p>
+    <p>📞 +996 500 633 297</p>
+    <p>
+      <a href="https://github.com/thedinaiym">GitHub</a> ·
+      <a href="https://scholar.google.com/citations?user=u9xp0GUAAAAJ">Google Scholar</a> ·
+      <a href="https://www.kaggle.com/dinaiymdubanaeva">Kaggle</a> ·
+      <a href="https://codeforces.com/profile/thedinaiym">Codeforces</a> ·
+      <a href="https://leetgpu.com/thedinaiym">LeetGPU</a>
+    </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Dinaiym here. Go away! She is not A MAN!
+**#1 GPA in Department (3.85 / 4.0)** · University Merit Scholarship (1st Place) · Presidential Scholarship 2025
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a final-year Applied Mathematics & Informatics student and AI Engineer with industrial experience at four organizations — **Doscredo Bank** (LLM pipelines, OCR), **MBank** (audio transcription, Kyrgyz LLM fine-tuning), **Nurtelecom** (churn modeling), and **Optima Bank** (RPA automation).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research spans **Computer Vision** (aesthetics-aware makeup transfer with conditional GANs), **low-resource NLP** (Kyrgyz G2P and speaker-adaptive TTS), **Formal Methods** (hybrid word-problem solver combining Lean 4 and SymPy), and **Data Science** (trade diagnostics, healthcare analytics). I have 5 papers — 2 published and 3 under review.
+
+Beyond research I compete in **ICPC** at NERC regional level (bronze medal), win national hackathons, and placed top 10% at **MIT & Yale Quantum Hackathons**. I also build open-source tools: a legal RAG bot for Kyrgyz law, a Web3 fractional real-estate DApp, and a multi-bank exchange-rate dashboard.
