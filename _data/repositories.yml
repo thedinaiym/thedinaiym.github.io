@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - thedinaiym
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - thedinaiym/KyrgyzLaw-RAG-Bot
+  - thedinaiym/ETH-2025-Bishkek
+  - thedinaiym/TTS-Synthesis-Systems-for-the-Kyrgyz-Language-in-Low-Resource-Settings
+  - thedinaiym/All-Banks-KG-Visual-Statistics
+  - thedinaiym/Quantum-Error-Correction-Benchmarking
