@@ -17,4 +17,4 @@ Published research presenting a reproducible pipeline to diagnose structural dep
 - HS-to-macro-sector mapping with partner role labels: deficit donor, surplus donor, balanced
 - Designed for repeatable monitoring of concentration risk and partner dependencies
 
-**Publication:** [SciProfiles](https://sciprofiles.com/publication/view/83046e2a6589e4ffcade1f782c728578) — *Published 2025*
+**Publication:** [SciProfiles](https://sciprofiles.com/publication/view/83046e2a6589e4ffcade1f782c728578) — _Published 2025_

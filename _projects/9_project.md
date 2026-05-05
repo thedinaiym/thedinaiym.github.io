@@ -17,4 +17,4 @@ Published healthcare analytics study using 2018–2024 ambulance dispatch data f
 - Clustered call locations to reveal high-demand zones and peak activity periods
 - Recommended mathematically optimized ambulance station placements based on call density
 
-**Publication:** [elibrary.ru](https://www.elibrary.ru/item.asp?id=82276214) — *Published AAS Ala-Too, May 2025*
+**Publication:** [elibrary.ru](https://www.elibrary.ru/item.asp?id=82276214) — _Published AAS Ala-Too, May 2025_

@@ -12,9 +12,10 @@ A novel computational platform for algorithmically resolving the Word Problem fo
 **Stack:** Python · SymPy · Lean 4 (Interactive Theorem Proving)
 
 **Key contributions:**
+
 - Hybrid architecture: SymPy for efficient parsing and simplification + Lean 4 for logical correctness proofs
 - Structured classifier dispatches queries to the most suitable formally verified solver
 - Handles large expressions in free groups, abelian groups, and finite-order groups
 - Educational tool bridging Combinatorial Group Theory and Interactive Theorem Proving (ITP)
 
-**Paper:** [Preprint (Overleaf)](https://www.overleaf.com/read/ckxrrhjwzfck#0374f8) — *Under Review*
+**Paper:** [Preprint (Overleaf)](https://www.overleaf.com/read/ckxrrhjwzfck#0374f8) — _Under Review_

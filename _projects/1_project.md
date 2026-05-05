@@ -12,6 +12,7 @@ A production Telegram bot that provides legal consultations grounded in Kyrgyz R
 **Stack:** Python · LangChain · Llama 3.3 70B · RAG · Telegram Bot API
 
 **Key points:**
+
 - Full RAG pipeline over a curated corpus of KR laws and regulations
 - LangChain orchestration with semantic chunking and re-ranking
 - Deployed and accessible via Telegram
