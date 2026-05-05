@@ -22,7 +22,7 @@ profile:
       <a href="https://leetgpu.com/thedinaiym">LeetGPU</a>
     </p>
 
-news: true
+news: false
 selected_papers: true
 social: true
 ---
