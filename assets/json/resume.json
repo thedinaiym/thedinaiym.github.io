@@ -280,7 +280,7 @@
       "summary": "Streamlit dashboard collecting exchange rates and precious metals from 20+ Kyrgyz banks.",
       "highlights": ["Streamlit", "Supabase", "PostgreSQL", "Python"],
       "startDate": "2024-01-01",
-      "url": "https://github.com/thedinaiym/All-Banks-KG-Visual-Statistics"
+      "url": "https://all-banks-visual-statistics-kg.streamlit.app/"
     },
     {
       "name": "Quantum Error Correction Benchmarking",
