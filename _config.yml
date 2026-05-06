@@ -83,7 +83,9 @@ gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
-kaggle_id: # your kaggle id
+huggingface_id: thedinaiym # your Hugging Face username
+kaggle_id: dinaiymdubanaeva # your kaggle id
+leetcode_id: matherist # your LeetCode username
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
