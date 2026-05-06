@@ -255,6 +255,13 @@
   "references": [],
   "projects": [
     {
+      "name": "MathForge — Intelligent Educational Platform for Higher Mathematics",
+      "summary": "Hybrid AI tutoring platform combining SymPy symbolic accuracy with Llama-3 for reliable higher-math education. Features a trilingual 3D avatar (English/Russian/Kyrgyz) and automated LaTeX generator.",
+      "highlights": ["Llama-3", "SymPy", "Trilingual NLP", "LaTeX", "Python"],
+      "startDate": "2025-01-01",
+      "url": "https://www.mathforgeapp.com/"
+    },
+    {
       "name": "KyrgyzLaw RAG Bot",
       "summary": "RAG assistant for Kyrgyz Republic legislation powered by Llama 3.3 70B and LangChain.",
       "highlights": ["LangChain", "Llama 3.3 70B", "RAG", "Telegram"],
