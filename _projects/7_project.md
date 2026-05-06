@@ -2,7 +2,6 @@
 layout: page
 title: Quantum Error Correction Benchmarking
 description: Simulating NISQ-to-FTQC crossover thresholds under depolarizing noise with Qiskit Aer
-img: assets/img/4.jpg
 importance: 7
 category: work
 ---

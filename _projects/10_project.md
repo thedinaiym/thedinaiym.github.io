@@ -2,7 +2,6 @@
 layout: page
 title: MathForge — Intelligent Educational Platform for Higher Mathematics
 description: Hybrid AI tutoring platform combining SymPy symbolic computation with Llama-3 for reliable higher-mathematics education
-img: assets/img/2.jpg
 importance: 1
 category: work
 ---

@@ -2,7 +2,6 @@
 layout: page
 title: Kyrgyz G2P & Speaker-Adaptive TTS
 description: Morphology-aware preprocessing and open-source G2P library for low-resource Kyrgyz TTS
-img: assets/img/7.jpg
 importance: 3
 category: work
 ---

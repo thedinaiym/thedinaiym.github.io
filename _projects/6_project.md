@@ -2,7 +2,6 @@
 layout: page
 title: All Banks KG — Exchange Rate Dashboard
 description: Real-time Streamlit dashboard collecting exchange rates and precious metals from 20+ Kyrgyz banks
-img: assets/img/5.jpg
 importance: 6
 category: work
 ---

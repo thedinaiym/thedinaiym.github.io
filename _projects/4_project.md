@@ -2,7 +2,6 @@
 layout: page
 title: Word Problem Solver (Group Theory)
 description: Hybrid WPG solver combining SymPy symbolic computation with Lean 4 formal verification
-img: assets/img/4.jpg
 importance: 4
 category: work
 ---

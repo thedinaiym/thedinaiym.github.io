@@ -2,7 +2,6 @@
 layout: page
 title: Aesthetics-Aware Makeup Transfer
 description: Conditional GAN + rule-based expert system — 14× faster than BeautyGAN, SSIM 0.906
-img: assets/img/3.jpg
 importance: 2
 category: work
 ---

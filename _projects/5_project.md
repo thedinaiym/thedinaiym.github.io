@@ -2,7 +2,6 @@
 layout: page
 title: RealEstate Fractional — Web3 DApp
 description: Fractional real estate ownership on Status Network Sepolia using Scaffold-ETH 2
-img: assets/img/1.jpg
 importance: 5
 category: work
 ---

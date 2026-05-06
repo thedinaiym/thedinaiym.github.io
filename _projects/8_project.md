@@ -2,7 +2,6 @@
 layout: page
 title: Kyrgyz Trade Diagnostics (2019–2024)
 description: Reproducible data-science workflow for partner-sector dependency analysis of KR goods trade
-img: assets/img/9.jpg
 importance: 8
 category: work
 ---

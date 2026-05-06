@@ -2,7 +2,6 @@
 layout: page
 title: KyrgyzLaw RAG Bot
 description: AI legal assistant for Kyrgyz Republic legislation powered by Llama 3.3 70B and LangChain
-img: assets/img/1.jpg
 importance: 1
 category: work
 ---

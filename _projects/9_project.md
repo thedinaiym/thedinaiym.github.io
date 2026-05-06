@@ -2,7 +2,6 @@
 layout: page
 title: Ambulance Call Analytics — Bishkek
 description: Location-based clustering and statistical analysis of 6 years of ambulance dispatch data
-img: assets/img/6.jpg
 importance: 9
 category: work
 ---
