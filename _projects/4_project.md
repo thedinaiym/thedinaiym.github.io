@@ -17,4 +17,4 @@ A novel computational platform for algorithmically resolving the Word Problem fo
 - Handles large expressions in free groups, abelian groups, and finite-order groups
 - Educational tool bridging Combinatorial Group Theory and Interactive Theorem Proving (ITP)
 
-**Paper:** [Preprint (Overleaf)](https://www.overleaf.com/read/ckxrrhjwzfck#0374f8) — _Under Review_
+**Links:** [GitHub](https://github.com/thedinaiym/WPG-Solver) · [Paper (Preprint)](https://www.overleaf.com/read/ckxrrhjwzfck#0374f8) — _In progress_

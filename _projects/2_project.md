@@ -18,4 +18,4 @@ Research system that overcomes the "blind style transfer" limitation of BeautyGA
 - Four-experiment comparative study across synthetic, AI-generated, and real-makeup data regimes
 - Finding: deterministic synthetic labels outperform AI-generated pairs for pixel-level makeup training
 
-**Paper:** [Preprint (Overleaf)](https://www.overleaf.com/read/jfdcgnhphzfd#1b0730) — _Under Review_
+**Links:** [GitHub](https://github.com/thedinaiym/-Virtual-Makeup-Artist-Public) · [Paper (Preprint)](https://www.overleaf.com/read/jfdcgnhphzfd#1b0730) — _In progress_
