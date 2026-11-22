@@ -16,4 +16,4 @@ Automated data collection and interactive visualization of exchange rates and pr
 - Persistent storage in Supabase PostgreSQL with scheduled refreshes
 - Interactive Streamlit dashboard with historical trends, bank comparisons, and metal prices
 
-*Live app and public repository are currently offline.*
+_Live app and public repository are currently offline._
