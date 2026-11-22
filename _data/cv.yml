@@ -3,21 +3,39 @@
   contents:
     - name: Full Name
       value: Dubanaeva Dinaiym Maratovna
+    - name: Title
+      value: Lead of AI / AI Systems & Product Engineer
     - name: Location
-      value: Bishkek, Kyrgyzstan
+      value: Astana, Kazakhstan
     - name: Email
-      value: dinaiym.dubanaeva@alatoo.edu.kg
+      value: dinaiym.dubanaeva@nu.edu.kz
+    - name: Phone
+      value: "+7 702 532 6897"
+    - name: LinkedIn
+      value: linkedin.com/in/dinaiym-d-56a49a242
+    - name: LeetCode
+      value: leetcode.com/u/matherist
     - name: Languages
       value: Kyrgyz (native), Russian (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
+    - title: M.Sc. in Data Science
+      institution: Nazarbayev University (NU), Astana, Kazakhstan
+      year: Aug 2026–Jun 2028
+      description:
+        - Abai Kunanbaev Scholarship Recipient (full merit-based master's grant)
+    - title: Yandex School of Data Analysis (ShAD)
+      institution: ML Kazakhstan, Astana, Kazakhstan
+      year: Nov 2026–2028
+      description:
+        - Granted student — top 30 of 800 applicants
     - title: B.Sc. in Applied Mathematics and Informatics
       institution: International Ala-Too University, Bishkek, Kyrgyzstan
-      year: 2022–2026
+      year: Sep 2022–Jun 2026
       description:
-        - "#1 GPA in Department — 3.85 / 4.0 (95/100)"
+        - "#1 in Department — GPA 3.86 / 4.0 (95/100); graduated with Honors (Red Diploma)"
         - University Merit Scholarship (1st Place)
         - Presidential Scholarship of the Kyrgyz Republic (2025)
         - title: Certifications
@@ -32,50 +50,101 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: AI Engineer
+    - title: Team Lead of AI / AI Engineer
       institution: Doscredo Bank (Simba), Bishkek, Kyrgyzstan
-      year: Feb 2026–now
+      year: Feb 2026–Jul 2026
       description:
-        - Developing ML and NLP solutions for intelligent document analysis and decision support.
-        - Designing LangChain + Ollama LLM pipelines with Qwen 3.5 and DeepSeek OCR.
-        - Building automated workflows with n8n, PowerBI, and Telegram bots.
+        - Promoted to Lead (May 2026); directed a team of 3 engineers building on-prem RAG & OCR pipelines (LangChain, Ollama, DeepSeek), accelerating document processing by 85% and saving 20h/day.
+        - Engineered an AI-driven enterprise KPI dashboard integrated with the Core Banking System (ABS) via FastAPI and vector embeddings for automated LLM comparative analytics.
+        - Designed LangChain + Ollama LLM pipelines with Qwen 3.5 and DeepSeek OCR; built automated workflows with n8n, PowerBI, and Telegram bots.
+        - Architected workflow microservices combining n8n, Apache Airflow, and FastAPI with the Core Banking System (ABS), containerized with Docker; built high-throughput REST API gateways and Telegram bot platforms for automated document processing.
     - title: AI Engineer
       institution: MBank, Bishkek, Kyrgyzstan
       year: Jul–Oct 2025
       description:
-        - Built a Batch Audio Transcription Pipeline using Google Vertex AI, AWS S3, and GCS.
-        - Fine-tuned Gemma 3 LLM for Kyrgyz-specific sentiment and emotion classification.
-        - Implemented Whisper VAD for audio language classification and XLM-R for PII masking (NER).
-    - title: Part-Time Data Scientist
+        - Automated 50% of call-center operations via a domain-specific Kyrgyz TTS system; fine-tuned Gemma 3 for agent emotion/sentiment detection to optimize workforce efficiency.
+        - Deployed batch audio transcription pipelines (GCP Vertex AI, AWS S3, GCS) processing 100+ hrs/day using Whisper VAD for language routing and XLM-R NER for PII masking.
+        - Engineered a cloud batch data-processing system on AWS S3 and GCP Vertex AI; built asynchronous microservices for real-time PII data masking.
+    - title: Data Scientist (Part-Time)
       institution: Nurtelecom (O!), Bishkek, Kyrgyzstan
       year: Jun 2024–Jul 2025
       description:
-        - Developed customer churn models (LightGBM/XGBoost → PyTorch FNN) with 67 features using SHAP and Optuna.
-        - Clustered DNS traffic and web activity using K-Means and DBSCAN; validated with silhouette scores.
+        - Deployed time-series churn prediction (LightGBM, XGBoost → PyTorch FNN, 67 features, SHAP, Optuna), retaining >30% of high-risk users through automated monthly interventions.
+        - Optimized legacy SQL functions/triggers to reduce query latency; clustered DNS traffic and web activity using K-Means, PCA, and DBSCAN, validated with silhouette scores.
     - title: RPA Python Developer Intern
       institution: Optima Bank, Bishkek, Kyrgyzstan
       year: Jan–Mar 2024
       description:
-        - Automated Core Banking System (ABS) reporting using UI emulation and Python scripting.
+        - Automated Core Banking System (ABS) reporting workflows using Python (pandas, openpyxl) and UI emulation (GUI emulation), eliminating 15+ manual hrs/week.
+
+- title: Selected AI & ML Systems Projects
+  type: time_table
+  contents:
+    - title: "AlaToo-Doc — AI University Document Pipeline"
+      institution: "github.com/thedinaiym/AlaToo-Doc"
+      year: ""
+      description:
+        - "Tech stack: FastAPI, Groq LLM, Next.js"
+    - title: ML Market Analyzing Platform
+      institution: "github.com/thedinaiym/ML-Analyzing-Marketplace"
+      year: ""
+      description:
+        - "Tech stack: Python, Streamlit, K-Means, Random Forest, CatBoost, XGBoost"
+    - title: "MathForge — Educational Platform for Higher Mathematics"
+      institution: "mathforgeapp.com · github.com/thedinaiym/MathForge-Intelligent-Educational-Platform-for-Higher-Mathematics"
+      year: ""
+      description:
+        - "Tech stack: SymPy, Llama-3, LaTeX, 3D Avatar, SQL, Python, FastAPI, Lean 4, Next.js, Groq LLM"
+
+- title: Fullstack & Software Projects
+  type: time_table
+  contents:
+    - title: "CampusNest — Student Housing & Roommate PWA Startup"
+      institution: "github.com/thedinaiym/CampusNest"
+      year: ""
+      description:
+        - "Tech stack: Next.js 15, Tailwind CSS v4, Supabase PostGIS, MapLibre GL JS"
+        - Engineered a fullstack PWA using Claude Agent workflows, featuring a deterministic roommate lifestyle-matching engine and zero-cost serverless infrastructure.
+    - title: "RealEstate Fractional — Web3 DApp"
+      institution: "github.com/thedinaiym/ETH-2025-Bishkek"
+      year: ""
+      description:
+        - "Tech stack: Solidity, Scaffold-ETH 2, Hardhat, Next.js"
+        - Architected a Web3 fractional property-trading platform with custom smart contracts. Prize winner at ETH Bishkek 2025.
+    - title: Student Management System & Workspace
+      institution: "github.com/thedinaiym/Student-Manage-System-google-auth-"
+      year: ""
+      description:
+        - "Tech stack: Django, React, Google OAuth2, PostgreSQL"
+        - Built an interactive workspace platform featuring secure authentication, analytics dashboards, and productivity tools.
+    - title: Real-Time Moderated Chat App
+      institution: ""
+      year: ""
+      description:
+        - "Tech stack: Django, WebSockets, SQLite, Tailwind CSS, Regex / NLP"
+        - Developed a chat system with real-time WebSocket communication and automated bilingual (RU/EN) moderation.
 
 - title: Research & Publications
   type: time_table
   contents:
+    - title: "Judge-in-the-Loop: Fine-Grained Reward-Guided Policy Optimization of Text-to-Image Diffusion Models"
+      year: Aug 2026
+      description: Accepted, AIST 2026 (Springer CCIS). Novel RLHF-style fine-tuning framework using fine-grained reward models to guide policy optimization in text-to-image diffusion architectures.
     - title: Aesthetics-Aware Generative Makeup Transfer
       year: 2025
-      description: Under Review. Conditional GAN with Mask-Conditioned U-Net + AdaIN, 14× faster than BeautyGAN (SSIM 0.906).
+      description: In progress. Conditional GAN with Mask-Conditioned U-Net + AdaIN, 14× faster than BeautyGAN (SSIM 0.906, LPIPS 0.034).
     - title: Morphology-Aware Text Normalization and Kyrgyz G2P for Low-Resource Speaker-Adaptive TTS
       year: 2025
-      description: Under Review. Open-source G2P library and preprocessing pipeline for Kyrgyz TTS.
+      description: In progress. Open-source morphology-aware G2P library and preprocessing pipeline for Kyrgyz TTS.
     - title: A Hybrid Framework for the Word Problem in Group Theory
       year: 2025
-      description: Under Review. WPG Solver combining SymPy symbolic computation and Lean 4 formal verification.
+      description: In progress. WPG Solver combining SymPy symbolic computation and Lean 4 formal proof verification.
     - title: Structural Duality in Emerging Markets — Kyrgyz Republic Trade (2019–2024)
       year: 2025
       description: Published on SciProfiles. Co-authored with Burul Shambetova.
     - title: Trends Detection, Statistical Analysis, Location-Based Clustering of Ambulance Calls in Bishkek
-      year: 2025
-      description: Published in AAS Ala-Too (May 2025). elibrary.ru.
+      year: May 2025
+      description: Published in AAS Ala-Too. K-Means/DBSCAN clustering and statistical analysis of 6 years of ambulance dispatch data. elibrary.ru.
 
 - title: Awards & Competitions
   type: time_table
@@ -106,19 +175,25 @@
   contents:
     - title: Languages
       items:
-        - "Python (Expert), C++, CUDA, Triton, SQL, JavaScript, Dart, Lean 4"
+        - "Python (Expert), C++ (Expert, algorithmic solver), CUDA, Triton, SQL, TypeScript, JavaScript, R, Dart, Solidity, Lean 4, LaTeX, Bash"
     - title: AI & LLMs
       items:
-        - "PyTorch, Transformers, LangChain, Ollama, Qwen 3.5, DeepSeek OCR"
-        - "LightGBM, CatBoost, XGBoost, SHAP, Optuna"
+        - "PyTorch, Transformers, Hugging Face, LangChain, Ollama, vLLM, Qwen 3.5, DeepSeek OCR, Gemma 3, Whisper, XLM-R"
+        - "TensorFlow, LightGBM, CatBoost, XGBoost, SHAP, Optuna"
+    - title: Backend & APIs
+      items:
+        - "FastAPI, Django, Node.js, WebSockets, REST APIs, GraphQL, Async SQLAlchemy"
+    - title: Frontend & Web
+      items:
+        - "Next.js 15, React, Tailwind CSS v4, PWA, Streamlit, HTML5/CSS3"
     - title: Quantum & Web3
       items:
-        - "Qiskit, Qiskit Aer, BlueQubit API, Scaffold-ETH 2, Status Network Sepolia"
-    - title: Frameworks & Tools
+        - "Qiskit, Qiskit Aer, BlueQubit API, Solidity, Scaffold-ETH 2, Hardhat, Status Network Sepolia"
+    - title: Databases, Cloud & Tools
       items:
-        - "Django, FastAPI, n8n, PowerBI, Tableau, Grafana, Supabase, Streamlit"
-        - "GCP, AWS (S3), Docker, Linux, Git, Vercel, Railway"
+        - "PostgreSQL, Supabase (PostGIS), Oracle, SQLite, Qdrant, n8n, Airflow, PowerBI, Tableau, Grafana"
+        - "GCP, GCP Vertex AI, AWS (S3), Docker, CI/CD, Linux, Git, Vercel, Railway"
     - title: Mathematics
       items:
-        - "Linear Algebra, Probability, Numerical Methods, Functional Analysis"
-        - "Optimization, Complex Analysis, Calculus, Differential Equations"
+        - "Linear Algebra, Probability & Statistics, Numerical Methods, Functional Analysis, Abstract Algebra"
+        - "Optimization Theory, Complex Analysis, Calculus, Differential Equations, Discrete Mathematics, Number Theory"
