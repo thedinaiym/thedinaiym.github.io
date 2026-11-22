@@ -32,7 +32,7 @@ social: true
 
 **#1 GPA in Department (3.86 / 4.0) · Honors (Red Diploma)** · Abai Kunanbaev Scholarship · Presidential Scholarship 2025
 
-I am an M.Sc. Data Science student at Nazarbayev University and a Yandex School of Data Analysis (ShAD) student, and an AI engineering leader with industrial experience at four organizations — **Doscredo Bank** (promoted to Team Lead of AI; on-prem RAG & OCR pipelines, enterprise KPI dashboards), **MBank** (Kyrgyz TTS, audio transcription, Gemma 3 fine-tuning), **Nurtelecom** (churn modeling), and **Optima Bank** (RPA automation).
+I am an M.Sc. Data Science student at **Nazarbayev University** (#1 in Kazakhstan, top 7.2% globally per CWUR 2025) and a **Yandex School of Data Analysis (ShAD)** student (<4% acceptance rate), and an AI engineering leader with industrial experience at four organizations — **Doscredo Bank** (promoted to Team Lead of AI; on-prem RAG & OCR pipelines, enterprise KPI dashboards), **MBank** (#1 digital bank in Kyrgyzstan, 3.8M+ users — Kyrgyz TTS, audio transcription, Gemma 3 fine-tuning), **Nurtelecom** (#1 mobile network operator in Kyrgyzstan — churn modeling), and **Optima Bank** (Top-4 bank in Kyrgyzstan by assets — RPA automation).
 
 My research spans **generative modeling** (RLHF-style reward-guided policy optimization for text-to-image diffusion, accepted at AIST 2026/Springer CCIS), **Computer Vision** (aesthetics-aware makeup transfer with conditional GANs), **low-resource NLP** (Kyrgyz G2P and speaker-adaptive TTS), **Formal Methods** (hybrid word-problem solver combining Lean 4 and SymPy), and **Data Science** (trade diagnostics, healthcare analytics). I have 6 papers — 3 published/accepted and 3 in progress.
 

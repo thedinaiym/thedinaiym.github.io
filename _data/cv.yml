@@ -22,17 +22,17 @@
   type: time_table
   contents:
     - title: M.Sc. in Data Science
-      institution: Nazarbayev University (NU), Astana, Kazakhstan
+      institution: "Nazarbayev University (NU) — #1 in Kazakhstan, Top 7.2% globally (CWUR 2025), Astana, Kazakhstan"
       year: Aug 2026–Jun 2028
       description:
         - Abai Kunanbaev Scholarship Recipient (full merit-based master's grant)
     - title: Yandex School of Data Analysis (ShAD)
-      institution: ML Kazakhstan, Astana, Kazakhstan
+      institution: "ML Kazakhstan — highly selective ML program, <4% acceptance rate, Astana, Kazakhstan"
       year: Nov 2026–2028
       description:
         - Granted student — top 30 of 800 applicants
     - title: B.Sc. in Applied Mathematics and Informatics
-      institution: International Ala-Too University, Bishkek, Kyrgyzstan
+      institution: "International Ala-Too University — Top-3 Private University in Kyrgyzstan, Bishkek, Kyrgyzstan"
       year: Sep 2022–Jun 2026
       description:
         - "#1 in Department — GPA 3.86 / 4.0 (95/100); graduated with Honors (Red Diploma)"
@@ -51,7 +51,7 @@
   type: time_table
   contents:
     - title: Team Lead of AI / AI Engineer
-      institution: Doscredo Bank (Simba), Bishkek, Kyrgyzstan
+      institution: "Doscredo Bank (Simba) — fast-growing Top-15 retail & fintech bank in KR, Bishkek, Kyrgyzstan"
       year: Feb 2026–Jul 2026
       description:
         - Promoted to Lead (May 2026); directed a team of 3 engineers building on-prem RAG & OCR pipelines (LangChain, Ollama, DeepSeek), accelerating document processing by 85% and saving 20h/day.
@@ -59,20 +59,20 @@
         - Designed LangChain + Ollama LLM pipelines with Qwen 3.5 and DeepSeek OCR; built automated workflows with n8n, PowerBI, and Telegram bots.
         - Architected workflow microservices combining n8n, Apache Airflow, and FastAPI with the Core Banking System (ABS), containerized with Docker; built high-throughput REST API gateways and Telegram bot platforms for automated document processing.
     - title: AI Engineer
-      institution: MBank, Bishkek, Kyrgyzstan
+      institution: "MBank — #1 digital bank in Kyrgyzstan, 3.8M+ users, Bishkek, Kyrgyzstan"
       year: Jul–Oct 2025
       description:
         - Automated 50% of call-center operations via a domain-specific Kyrgyz TTS system; fine-tuned Gemma 3 for agent emotion/sentiment detection to optimize workforce efficiency.
         - Deployed batch audio transcription pipelines (GCP Vertex AI, AWS S3, GCS) processing 100+ hrs/day using Whisper VAD for language routing and XLM-R NER for PII masking.
         - Engineered a cloud batch data-processing system on AWS S3 and GCP Vertex AI; built asynchronous microservices for real-time PII data masking.
     - title: Data Scientist (Part-Time)
-      institution: Nurtelecom (O!), Bishkek, Kyrgyzstan
+      institution: "Nurtelecom (O!) — #1 mobile network operator in Kyrgyzstan, Bishkek, Kyrgyzstan"
       year: Jun 2024–Jul 2025
       description:
         - Deployed time-series churn prediction (LightGBM, XGBoost → PyTorch FNN, 67 features, SHAP, Optuna), retaining >30% of high-risk users through automated monthly interventions.
         - Optimized legacy SQL functions/triggers to reduce query latency; clustered DNS traffic and web activity using K-Means, PCA, and DBSCAN, validated with silhouette scores.
     - title: RPA Python Developer Intern
-      institution: Optima Bank, Bishkek, Kyrgyzstan
+      institution: "Optima Bank — Top-4 bank in Kyrgyzstan by assets and net profit, Bishkek, Kyrgyzstan"
       year: Jan–Mar 2024
       description:
         - Automated Core Banking System (ABS) reporting workflows using Python (pandas, openpyxl) and UI emulation (GUI emulation), eliminating 15+ manual hrs/week.
