@@ -81,44 +81,57 @@
   type: time_table
   contents:
     - title: "AlaToo-Doc — AI University Document Pipeline"
-      institution: "github.com/thedinaiym/AlaToo-Doc"
       year: ""
       description:
         - "Tech stack: FastAPI, Groq LLM, Next.js"
+      linkitems:
+        - link: "https://github.com/thedinaiym/AlaToo-Doc"
+          linkname: GitHub
     - title: ML Market Analyzing Platform
-      institution: "github.com/thedinaiym/ML-Analyzing-Marketplace"
       year: ""
       description:
         - "Tech stack: Python, Streamlit, K-Means, Random Forest, CatBoost, XGBoost"
+      linkitems:
+        - link: "https://github.com/thedinaiym/ML-Analyzing-Marketplace"
+          linkname: GitHub
     - title: "MathForge — Educational Platform for Higher Mathematics"
-      institution: "mathforgeapp.com · github.com/thedinaiym/MathForge-Intelligent-Educational-Platform-for-Higher-Mathematics"
       year: ""
       description:
         - "Tech stack: SymPy, Llama-3, LaTeX, 3D Avatar, SQL, Python, FastAPI, Lean 4, Next.js, Groq LLM"
+      linkitems:
+        - link: "https://www.mathforgeapp.com/"
+          linkname: Live App
+        - link: "https://github.com/thedinaiym/MathForge-Intelligent-Educational-Platform-for-Higher-Mathematics"
+          linkname: GitHub
 
 - title: Fullstack & Software Projects
   type: time_table
   contents:
     - title: "CampusNest — Student Housing & Roommate PWA Startup"
-      institution: "github.com/thedinaiym/CampusNest"
       year: ""
       description:
         - "Tech stack: Next.js 15, Tailwind CSS v4, Supabase PostGIS, MapLibre GL JS"
         - Engineered a fullstack PWA using Claude Agent workflows, featuring a deterministic roommate lifestyle-matching engine and zero-cost serverless infrastructure.
+      linkitems:
+        - link: "https://github.com/thedinaiym/CampusNest"
+          linkname: GitHub
     - title: "RealEstate Fractional — Web3 DApp"
-      institution: "github.com/thedinaiym/ETH-2025-Bishkek"
       year: ""
       description:
         - "Tech stack: Solidity, Scaffold-ETH 2, Hardhat, Next.js"
         - Architected a Web3 fractional property-trading platform with custom smart contracts. Prize winner at ETH Bishkek 2025.
+      linkitems:
+        - link: "https://github.com/thedinaiym/ETH-2025-Bishkek"
+          linkname: GitHub
     - title: Student Management System & Workspace
-      institution: "github.com/thedinaiym/Student-Manage-System-google-auth-"
       year: ""
       description:
         - "Tech stack: Django, React, Google OAuth2, PostgreSQL"
         - Built an interactive workspace platform featuring secure authentication, analytics dashboards, and productivity tools.
+      linkitems:
+        - link: "https://github.com/thedinaiym/Student-Manage-System-google-auth-"
+          linkname: GitHub
     - title: Real-Time Moderated Chat App
-      institution: ""
       year: ""
       description:
         - "Tech stack: Django, WebSockets, SQLite, Tailwind CSS, Regex / NLP"
@@ -130,21 +143,45 @@
     - title: "Judge-in-the-Loop: Fine-Grained Reward-Guided Policy Optimization of Text-to-Image Diffusion Models"
       year: Aug 2026
       description: Accepted, AIST 2026 (Springer CCIS). Novel RLHF-style fine-tuning framework using fine-grained reward models to guide policy optimization in text-to-image diffusion architectures.
+      linkitems:
+        - link: "https://github.com/thedinaiym/Judge-in-the-Loop-Fine-Grained-Reward-Guided-Policy-Optimization-of-Text-to-Image_Diffusion_Models"
+          linkname: GitHub
     - title: Aesthetics-Aware Generative Makeup Transfer
       year: 2025
       description: In progress. Conditional GAN with Mask-Conditioned U-Net + AdaIN, 14× faster than BeautyGAN (SSIM 0.906, LPIPS 0.034).
+      linkitems:
+        - link: "https://github.com/thedinaiym/-Virtual-Makeup-Artist-Public"
+          linkname: GitHub
+        - link: "https://www.overleaf.com/read/jfdcgnhphzfd#1b0730"
+          linkname: Preprint
     - title: Morphology-Aware Text Normalization and Kyrgyz G2P for Low-Resource Speaker-Adaptive TTS
       year: 2025
       description: In progress. Open-source morphology-aware G2P library and preprocessing pipeline for Kyrgyz TTS.
+      linkitems:
+        - link: "https://github.com/thedinaiym/TTS-Synthesis-Systems-for-the-Kyrgyz-Language-in-Low-Resource-Settings"
+          linkname: GitHub
+        - link: "https://www.overleaf.com/read/gbgrfqfyzqnx#417246"
+          linkname: Preprint
     - title: A Hybrid Framework for the Word Problem in Group Theory
       year: 2025
       description: In progress. WPG Solver combining SymPy symbolic computation and Lean 4 formal proof verification.
+      linkitems:
+        - link: "https://github.com/thedinaiym/WPG-Solver"
+          linkname: GitHub
+        - link: "https://www.overleaf.com/read/ckxrrhjwzfck#0374f8"
+          linkname: Preprint
     - title: Structural Duality in Emerging Markets — Kyrgyz Republic Trade (2019–2024)
       year: 2025
       description: Published on SciProfiles. Co-authored with Burul Shambetova.
+      linkitems:
+        - link: "https://sciprofiles.com/publication/view/83046e2a6589e4ffcade1f782c728578"
+          linkname: SciProfiles
     - title: Trends Detection, Statistical Analysis, Location-Based Clustering of Ambulance Calls in Bishkek
       year: May 2025
-      description: Published in AAS Ala-Too. K-Means/DBSCAN clustering and statistical analysis of 6 years of ambulance dispatch data. elibrary.ru.
+      description: Published in AAS Ala-Too. K-Means/DBSCAN clustering and statistical analysis of 6 years of ambulance dispatch data.
+      linkitems:
+        - link: "https://www.elibrary.ru/item.asp?id=82276214"
+          linkname: elibrary.ru
 
 - title: Awards & Competitions
   type: time_table
