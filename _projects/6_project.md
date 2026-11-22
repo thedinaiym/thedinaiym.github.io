@@ -16,4 +16,4 @@ Automated data collection and interactive visualization of exchange rates and pr
 - Persistent storage in Supabase PostgreSQL with scheduled refreshes
 - Interactive Streamlit dashboard with historical trends, bank comparisons, and metal prices
 
-**Links:** [Live App](https://all-banks-visual-statistics-kg.streamlit.app/) · [GitHub](https://github.com/thedinaiym/All-Banks-KG-Visual-Statistics)
+*Live app and public repository are currently offline.*
