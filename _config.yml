@@ -627,7 +627,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# Disabled: the /cv/ page's layout prefers site.data.resume (JSON Resume
+# format, assets/json/resume.json) over site.data.cv (_data/cv.yml) whenever
+# this is non-empty, which made resume.json's stale snapshot silently shadow
+# all edits to _data/cv.yml. CV content is now maintained solely in cv.yml.
+jekyll_get_json: []
 jsonresume: []
